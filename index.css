@@ -1,0 +1,13 @@
+footer {
+    background-color: rgb(62, 155, 192);
+    border-radius: 15px;
+}
+
+.foto-perfil {
+    max-width: 100%;
+    border-radius: 15%;
+}
+
+.fab {
+    color: black;
+}
