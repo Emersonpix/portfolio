@@ -1,6 +1,5 @@
 footer {
-    background-color: rgb(62, 155, 192);
-    border-radius: 15px;
+    background-color: rgb(23, 47, 92);
     padding: 100px;
 }
 
@@ -11,4 +10,51 @@ footer {
 
 .fab {
     color: black;
+}
+
+.corPrimaria {
+    background-color: rgb(62, 155, 192);
+}
+
+.corSecundaria {
+    background-color: rgb(23, 47, 92);
+}
+
+p {
+    font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color: black !important;
+}
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.titulosAzuis {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(62, 155, 192);
+}
+
+.textoBranco {
+    color: white !important;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+.textovermelho {
+    color: rgb(207, 102, 102);
+}
+
+html {
+    scroll-behavior: smooth;
 }
