@@ -58,3 +58,7 @@ p {
 html {
     scroll-behavior: smooth;
 }
+
+span {
+    cursor: pointer;
+}
